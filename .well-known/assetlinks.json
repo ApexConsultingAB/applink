@@ -1,0 +1,9 @@
+  [{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.apex.community.birdbrain.birdbrain",
+      "sha256_cert_fingerprints":
+      ["36:39:8E:F4:AE:F9:7D:DD:FB:D0:70:9D:0F:E5:24:E3:9C:70:48:23:D1:07:36:69:49:9E:BA:D8:D7:07:99:66"]
+    }
+  }]
